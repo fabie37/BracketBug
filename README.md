@@ -7,7 +7,7 @@ Little C program which scans the output of a file and tells you which line in an
 ------------
 
 Compile the program using any C compiler.
-`cc bracket-debugger.c`
+`cc bracket-debugger.c brackets.c newline.c`
 
 Then pipe your c program into the compiled program.
 `cat test.c | bracket-debugger.out`
