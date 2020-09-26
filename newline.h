@@ -1,0 +1,1 @@
+int newline(char line[], int limit);
